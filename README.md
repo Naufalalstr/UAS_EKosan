@@ -32,11 +32,14 @@ Ekosan adalah aplikasi mobile berbasis **Flutter**, aplikasi ini bertujuan untuk
 <p align="center">
   <img src="e_kosan/Screenshots/register.png" width="300"/>
   <img src="e_kosan/Screenshots/login.png" width="300"/>
-  <img src="e_kosan/Screenshots/homepencari.png" width="300"/>
 </p>
 
 <p align="center">
+  <img src="e_kosan/Screenshots/homepencari.png" width="300"/>
   <img src="e_kosan/Screenshots/homepemilik.png" width="300"/>
+</p>
+
+<p align="center">
   <img src="e_kosan/Screenshots/detailkosan.png" width="300"/>
   <img src="e_kosan/Screenshots/tambahkos.png" width="300"/>
 </p>
