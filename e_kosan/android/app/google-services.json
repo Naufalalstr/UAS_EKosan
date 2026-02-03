@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257618089832",
+    "project_id": "e-kosan-mobile",
+    "storage_bucket": "e-kosan-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257618089832:android:1258e8464c46ac609ea8dd",
+        "android_client_info": {
+          "package_name": "com.example.e_kosan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtTmNlA5MVprxd1N22kJelLMWMKC2WLfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
